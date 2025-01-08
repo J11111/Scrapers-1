@@ -1,6 +1,8 @@
 {
 	"1": [
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/animetosho.json",		
+	        "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentgalaxy.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/piratebay.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/kickass.json",	
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/eztv.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/ytsws.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/glodls.json",
@@ -10,9 +12,7 @@
 	],
 	"2": [
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/magnetdl.json",
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentgalaxy.json",
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/piratebay.json",
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/kickass.json",		
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/animetosho.json",	
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/onlytorrent.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/solid.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/nyaa.json",		
